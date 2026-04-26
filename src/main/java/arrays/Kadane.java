@@ -1,3 +1,5 @@
+package arrays;
+
 public class Kadane {
 
     // Returns the maximum subarray sum
